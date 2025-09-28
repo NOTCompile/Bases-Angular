@@ -1,0 +1,13 @@
+*{
+    justify-content: center;
+    text-align: center;
+}
+
+.content{
+    display: flex;
+}
+
+button{
+    padding: 5px;
+    margin-right: 15px;
+}
